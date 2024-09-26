@@ -1,14 +1,16 @@
-Data Source: 
+<b>Data Source:</b>
 1. Used Car dataset on Kaggle
 2. Scope: Original dataset: 3M used cars; a subset of 426k cars is in scope for this analysis
 
-Business Objectives:
+<b>Link to notebook:</b> https://github.com/navinbilwar/usedcar/blob/main/prompt_II.ipynb
+
+<b>Business Objectives:</b>
 1. Analyze the dataset to determine the top features and their corresponding weightage
 that contribute to a used car price
 2. Use data pre-processing, data modeling, and model evaluation methodologies to make clear 
 recommendations to the used car dealership on what features consumers value most in a used car
 
-Conclusion:
+<b>Conclusion:</b><br>
 Most influential factors valued by consumers for a better car price:
 1. Newer cars (i.e. less car age)
 2. Better car condition
@@ -23,7 +25,7 @@ Most influential factors contributing to lower car price:
 3. Car brands: Ford gas cars, Dodge gas cars, Volvo gas cars, Chevrolet gas cars with lower # of cylinders
 4. Pickup trucks with higher # of cylinders
 
-Next steps & recommendations for better modeling
+<b>Next steps & recommendations for better modeling</b>
 1. Revisit data preprocessing to include more # of features and more # of sample data by 
    substituting more feature null values with appropriately derived values from the existing 
    dataset
